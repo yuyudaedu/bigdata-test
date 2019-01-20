@@ -1,0 +1,4 @@
+worker-id: 493be90b-d04d-4e5e-a5b0-551ae523fe52
+logs.users: []
+logs.groups: []
+topology.submitter.user: root

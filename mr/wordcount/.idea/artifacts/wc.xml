@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wc">
+    <output-path>D:/tools/localProjectPackageJAR</output-path>
+    <root id="archive" name="wc.jar">
+      <element id="module-output" name="wordcount" />
+    </root>
+  </artifact>
+</component>
